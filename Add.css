@@ -1,0 +1,33 @@
+/* MathGame.css */
+
+.math-game-container {
+    text-align: center;
+    /* margin: 2px; */
+    padding: 20px;
+    border: 2px solid #ccc;
+    border-radius: 15px;
+    max-width: 300px;
+    margin: 0 auto;
+    background-color: #f8f8f8;
+  }
+  
+  .option-label {
+    display: block;
+    margin-bottom: 10px;
+  }
+  
+  .check-button {
+    display: block;
+    margin: 20px auto;
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .check-button:hover {
+    background-color: #0056b3;
+  }
+  
